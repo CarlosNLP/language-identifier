@@ -1,0 +1,8 @@
+Tale test è conosciuto oggi come test di Turing: esso afferma che se una macchina può avere una conversazione con un umano e ingannare l’umano nel pensare che la macchina è una persona, allora la macchina si dice artificialmente intelligente.
+
+Ma cosa c’entra il test di Turing con l’elaborazione del linguaggio naturale?”
+
+Essenzialmente per 2 ragioni:
+
+Il test di turing ha scandito la nascita dell’intelligenza artificiale, settore che include le tecniche di elaborazione del linguaggio naturale;
+la parte essenziale del test di Turing è la comunicazione tra uomo e macchina. Il computer deve essere in grado di comunicare con un essere umano, e per farlo deve essere in grado di comprendere il linguaggio umano.
