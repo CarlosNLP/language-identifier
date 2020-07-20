@@ -1,7 +1,5 @@
 # language-identifier
-Repository with language identifier model
-
-Required modules for installation
+Repository with language identifier model. Required modules for installation:
 
 Naive Bayes binary: sqlite3, numpy and nltk
 
